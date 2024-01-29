@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Amirah Yusof</h1>
-<h3 align="center">A self-taught and passion in coding 🤗</h3>
+<h3 align="center">A self-taught programmer and have passion in coding 🤗</h3>
 
 - 🔭 I’m currently working on **my secret mini project**
 
