@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Amirah Yusof</h1>
 <h3 align="center">A self-taught programmer and have passion in coding 🤗</h3>
 
-- 🔭 I’m currently working on **my secret mini project**
+- 🔭 I’m currently working on **my personal project**
 
-- 🌱 I’m currently learning **Reactjs, PHP and Laravel**
+- 🌱 I’m currently learning **Reactjs, Firebase, Nextjs, PHP and Laravel**
 
 - 👯 I’m looking to collaborate on **any project**
 
@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **amirahezzamieyusof@gmail.com**
 
-- ⚡ Fun fact **I think I am awesome 🤫**
+- ⚡ Fun fact **I think I am too shy to communicate**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
