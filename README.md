@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **any project**
 
-- 👨‍💻 All of my projects are available at [https://github.com/amirahyusof](https://github.com/amirahyusof)
+- 👨‍💻 All of my personal also learning projects are available at [https://github.com/amirahyusof](https://github.com/amirahyusof)
 
 - 📫 How to reach me **amirahezzamieyusof@gmail.com**
 
