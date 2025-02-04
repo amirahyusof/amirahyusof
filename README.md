@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **my personal project**
 
-- 🌱 I’m currently learning **Firebase, Php and Laravel**
+- 🌱 I’m currently learning **Firebase, PHP and Laravel**
 
 - 👯 I’m looking to collaborate on **any project**
 
