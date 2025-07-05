@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋, I'm Amirah Yusof</h1>
 <h3 align="center">A self-taught front end developer and have passion in coding 🤗</h3>
 
-- 🔭 I’m currently working on **my personal project**
+- 🔭 I’m currently and always working on **my personal project**
 
 - 🌱 I’m currently learning **React Native, PHP and Laravel**
 
