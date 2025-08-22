@@ -1,5 +1,6 @@
 <h1 align="center">Hi there 👋, I'm Amirah Yusof</h1>
-<h3 align="center">A self-taught front end developer and have passion in coding 🤗</h3>
+<h3 align="center">A self-taught Frontend Developer who believes in turning coffee ☕ into clean code and ideas 💡 into meaningful creations 🤗.</h3>
+<p align="center"> Always learning, always building, always having fun along the way 🚀✨.</p>
 
 - 🔭 I’m currently and always working on **my personal project**
 
