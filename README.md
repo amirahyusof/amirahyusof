@@ -2,9 +2,9 @@
 <h3 align="center">A self-taught Frontend Developer who believes in turning coffee ☕ into clean code and ideas 💡 into meaningful creations 🤗.</h3>
 <p align="center"> Always learning, always building, always having fun along the way 🚀✨.</p>
 
-- 🔭 I’m currently and always working on **my personal project**
+- 🔭 I’m currently and always working on **my personal and hobby project**
 
-- 🌱 I’m currently learning **React Native, PHP and Laravel**
+- 🌱 I’m currently learning **React Native, Python and Laravel**
 
 - 👯 I’m looking to collaborate on **any project**
 
