@@ -1,23 +1,89 @@
-<h1 align="center">Hi there 👋, I'm Amirah Yusof</h1>
-<h3 align="center">A self-taught Frontend Developer who believes in turning coffee ☕ into clean code and ideas 💡 into meaningful creations 🤗.</h3>
-<p align="center"> Always learning, always building, always having fun along the way 🚀✨.</p>
+# Hey there, I'm Amirah Yusof 👋
 
-- 🔭 I’m currently and always working on **my personal project**
+<div align="center">
 
-- 🌱 I’m currently learning **React Native, Python and Laravel**
+**A self-taught Frontend Developer** turning coffee ☕ into clean code and ideas 💡 into meaningful creations 🚀
 
-- 👯 I’m looking to collaborate on **any project**
+*Always learning, always building, always having fun along the way* 🔥
 
-- 👨‍💻 All of my personal also learning projects are available at [https://github.com/amirahyusof](https://github.com/amirahyusof)
+</div>
 
-- 📫 How to reach me **amirahezzamieyusof@gmail.com**
+---
 
-- ⚡ Fun fact **I think I am too shy to communicate**
+## 🎯 About Me
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="center"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+I'm a passionate developer who loves solving problems through code and design. I believe in the power of clean, maintainable code and creating delightful user experiences. Whether it's a small component or a full-stack application, I approach every project with curiosity and a growth mindset.
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=amirahyusof&show_icons=true&locale=en&layout=compact" alt="amirahyusof" /></p>
+### What I'm Up To
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amirahyusof&" alt="amirahyusof" /></p>
+- 🎨 Currently working on personal projects to strengthen my portfolio
+- 📚 Learning **React Native**, **Python**, and **Laravel**
+- 🤝 Looking to collaborate on interesting projects
+- 💬 Always up for discussing code, design, and best practices
+
+---
+
+## 💻 Tech Stack
+
+<div align="center">
+
+| Frontend | Design & Tools | Backend & Other |
+|----------|---|---|
+| ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![HTML5](https://img.shields.io/badge/HTML5-E34C26?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white) | ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white) |
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=amirahyusof&show_icons=true&theme=dark&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=amirahyusof&layout=compact&theme=dark&hide_border=true)
+
+</div>
+
+---
+
+## 🔗 Connect With Me
+
+<div align="center">
+
+| Platform | Link |
+|----------|------|
+| 💼 **GitHub** | [@amirahyusof](https://github.com/amirahyusof) |
+| 📧 **Email** | [amirahezzamieyusof@gmail.com](mailto:amirahezzamieyusof@gmail.com) |
+
+</div>
+
+---
+
+## ⚡ Fun Facts
+
+- ☕ I genuinely believe code quality improves with coffee
+- 🎮 I enjoy turning complex problems into elegant solutions
+- 🚀 I'm always exploring new technologies and frameworks
+- 😊 I'm a bit shy on calls, but I communicate best through code and written word
+
+---
+
+## 📈 My Contribution Journey
+
+```
+Total Contributions: 2,998
+Current Streak: May 19
+Longest Streak: 16 days
+```
+
+---
+
+<div align="center">
+
+### Made with ❤️ by Amirah Yusof
+
+*Last updated: May 2026*
+
+</div>
 
