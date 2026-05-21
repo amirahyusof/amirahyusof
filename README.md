@@ -38,11 +38,10 @@ I'm a passionate developer who loves solving problems through code and design. I
 ## 📊 GitHub Stats
 
 <div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=amirahyusof&show_icons=true&theme=dark&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=amirahyusof&layout=compact&theme=dark&hide_border=true)
-
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=amirahyusof&show_icons=true&theme=dark&hide_border=true&count_private=true)](https://github.com/amirahyusof)
+ 
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=amirahyusof&layout=compact&theme=dark&hide_border=true)](https://github.com/amirahyusof)
+ 
 </div>
 
 ---
